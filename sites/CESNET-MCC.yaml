@@ -5,9 +5,6 @@ vos:
 - name: biomed
   auth:
     project_id: eca73ad6a84d4c0088063505c36349ab
-- name: chipster.csc.fi
-  auth:
-    project_id: 2ce965f162c9434cb21ac25f3b05bd9f
 - name: covid19.eosc-synergy.eu
   auth:
     project_id: 192e87f713474117a2a22704ac4da1a2
@@ -69,9 +66,6 @@ vos:
 - name: vo.indigo-datacloud.eu
   auth:
     project_id: 25cb49baedbf40a194729ff6802c8491
-- name: vo.max-centre.eu
-  auth:
-    project_id: 50fc58ed66a14106b40b9c6d7d9af86c
 - name: vo.nextgeoss.eu
   auth:
     project_id: 081396a827c94f3da0c922cf6d8fb7f7
@@ -90,9 +84,6 @@ vos:
 - name: waterwatch.c-scale.eu
   auth:
     project_id: acf5d12568914e65a80150efb087cbb8
-- name: vo.carouseldancing.org
-  auth:
-    project_id: 7ace5ca998b849619bd34e922fbd2cb7
 - name: vo.pangeo.eu
   auth:
     project_id: 05e0ff6e03774082aadacc75bfc1d783
@@ -108,9 +99,6 @@ vos:
 - name: eval.c-scale.eu
   auth:
     project_id: d6283bc95d5c4296abb799596867818c
-- name: in-sar-cubes.c-scale.eu
-  auth:
-    project_id: b28570e8eca54db3b837b85a4f27932f
 - name: /vo.pangeo.eu/swift
   auth:
     project_id: 57102d3e06b7476088fe4924370ae170
@@ -126,3 +114,6 @@ vos:
 - name: vo.envrihub.eu
   auth:
     project_id: 61d8e5a65aff45fabc41ae954e905d11
+- name: vo.radiotracers4psma.eu
+  auth:
+    project_id: c92b14a949664e74b1afdac69adc724a
